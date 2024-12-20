@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anusree Sreekumar</h1>
 <h3 align="center">A passionate Full Stack Verifier from India</h3>
 
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*5OSbGu-5Z98IT8r76UJZbw.gif)]()
+
 - 🌱 I’m currently learning **Blockchain Tecnology**
 
 - 💬 Ask me about **MERN Stack**
